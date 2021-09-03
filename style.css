@@ -19,6 +19,10 @@ header {
   color: white;
 }
 
+li {
+  font-size: 12px;	
+}
+
 
 /* Create two unequal columns that floats next to each other */
 
