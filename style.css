@@ -17,6 +17,17 @@ body {
   scrollbar-width: none; 
 }
 
+scroll {
+  overflow-y: scroll;
+}
+scroll::-webkit-scrollbar {
+  display: none;
+}
+scroll {
+  -ms-overflow-style: none;
+  scrollbar-width: none; 
+}
+
 /* Header/Blog Title */
 
 header {
