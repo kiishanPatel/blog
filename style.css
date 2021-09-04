@@ -6,7 +6,7 @@
 body {
   font-family: Arial;
   padding: 10px;
-  background: #1b1b1b;
+  background: black;
 }
 
 body::-webkit-scrollbar {
@@ -63,7 +63,7 @@ li {
 
 /* Add a card effect for articles */
 .card {
-   background-color: black;
+   background-color: #1B1B1B;
    padding: 20px;
    margin-top: 20px;
    color: white;
