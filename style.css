@@ -5,43 +5,21 @@
 /* Add a gray background color with some padding */
 body {
   font-family: Arial;
-  padding: 10px;
-  background: black;
-}
-
-body::-webkit-scrollbar {
-  display: none;
-}
-body {
-  -ms-overflow-style: none;
-  scrollbar-width: none; 
-}
-
-scroll {
-  overflow-y: scroll;
-}
-scroll::-webkit-scrollbar {
-  display: none;
-}
-scroll {
-  -ms-overflow-style: none;
-  scrollbar-width: none; 
+  padding: 20px;
+  background:  black;
 }
 
 /* Header/Blog Title */
 
 header {
   padding: 15px;
+  font-size: 30px;
   text-align: center;
-  background-color:;
-  color: white;
-  background-image: url(gif.gif);
+  background-color: ;
+  background-image: url(images/gif.gif);
   border: solid 10px #1B1B1B;
-  border-radius: 40px;	
-}
-
-li {
-  font-size: 14px;	
+  border-radius: 40px;
+  color: white;
 }
 
 
@@ -67,6 +45,7 @@ li {
    padding: 20px;
    margin-top: 20px;
    color: white;
+   border-radius: 50px;
 }
 .card:hover {
 	 box-shadow: 0 16px 22px 0 white;
@@ -154,7 +133,7 @@ footer {
   margin-top: 20px;
   color: gray;
   font-size: 9px;
-  background-image: url(gif.gif);
+   background-image: url(images/gif.gif);
   border: solid 10px #1B1B1B;
   border-radius: 40px;
 }
