@@ -13,10 +13,9 @@ body {
 
 header {
   padding: 15px;
-  font-size: 30px;
   text-align: center;
   background-color: ;
-  background-image: url(images/gif.gif);
+  background-image: url(gif.gif);
   border: solid 10px #1B1B1B;
   border-radius: 40px;
   color: white;
@@ -133,7 +132,6 @@ footer {
   background: black;
   margin-top: 20px;
   color: gray;
-  font-size: 9px;
    background-image: url(images/gif.gif);
   border: solid 10px #1B1B1B;
   border-radius: 40px;
