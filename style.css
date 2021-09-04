@@ -5,7 +5,7 @@
 /* Add a gray background color with some padding */
 body {
   font-family: Arial;
-  padding: 8px;
+  padding: 10px;
   background: #1b1b1b;
 }
 
@@ -33,9 +33,11 @@ scroll {
 header {
   padding: 15px;
   text-align: center;
-  background-color: ;
-  background-image: url(gif.gif);
+  background-color:;
   color: white;
+  background-image: url(gif.gif);
+  border: solid 10px #1B1B1B;
+  border-radius: 40px;	
 }
 
 li {
@@ -152,6 +154,9 @@ footer {
   margin-top: 20px;
   color: gray;
   font-size: 9px;
+  background-image: url(gif.gif);
+  border: solid 10px #1B1B1B;
+  border-radius: 40px;
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
