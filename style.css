@@ -45,7 +45,8 @@ header {
    padding: 20px;
    margin-top: 20px;
    color: white;
-   border-radius: 50px;
+   border: solid 1px #1b1b1b;
+   border-radius: 40px;
 }
 .card:hover {
 	 box-shadow: 0 16px 22px 0 white;
