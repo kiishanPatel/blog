@@ -16,7 +16,7 @@ header {
   text-align: center;
   background-color: ;
   background-image: url(gif.gif);
-  border: solid 10px #1B1B1B;
+  border: solid 7px #1B1B1B;
   border-radius: 40px;
   color: white;
 }
@@ -52,7 +52,7 @@ header {
 }
 
 .imgresponsive {
-	  max-width: 60%;
+     max-width: 66%;
      height: auto;
 	 
 }
@@ -132,8 +132,8 @@ footer {
   background: black;
   margin-top: 20px;
   color: gray;
-   background-image: url(images/gif.gif);
-  border: solid 10px #1B1B1B;
+   background-image: url(gif.gif);
+  border: solid 7px #1B1B1B;
   border-radius: 40px;
 }
 
